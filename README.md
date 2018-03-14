@@ -1,4 +1,6 @@
-#Readme file for the DREAM Challenge on Module Identification for Diseases - SubChallenge 1
+Constrained Louvain method for DREAM Challenge on Module Identification for Diseases - SubChallenge 1
+
+[![DOI](https://zenodo.org/badge/125165582.svg)](https://zenodo.org/badge/latestdoi/125165582)
 
 #Created by Raghvendra Mall on 12.03.2018.
 #All rights reserved
