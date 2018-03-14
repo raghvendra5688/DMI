@@ -1,6 +1,6 @@
 #Readme file for the DREAM Challenge on Module Identification for Diseases - SubChallenge 1
 
-#Created by Raghvendra Mall on 06.09.2016.
+#Created by Raghvendra Mall on 12.03.2018.
 #All rights reserved
 
 We describe in detail the pre-requisites for running the proposed Adaptive Refinement technique (in conjugation with any community detection method) for Disease Module Identification.
